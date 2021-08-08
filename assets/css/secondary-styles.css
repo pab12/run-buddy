@@ -1,15 +1,15 @@
 .hero {
     background-position: bottom;
-    height: 295px;
+    height: auto;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
 }
-
+/* REACH OUT STYLES START */
 .page-title {
     color: #fce138;
     display: inline-block;
     border-bottom: 4px solid  #fce138;
-    padding-top: 133px;
+    padding-top: 0;
     padding-right: 80px;
     padding-bottom: 15px;
     padding-left: 80px;
